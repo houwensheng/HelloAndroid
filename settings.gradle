@@ -1,1 +1,1 @@
-include ':app', ':mycalculator', ':mylogin', ':myshoppingcart'
+include ':app', ':mycalculator', ':mylogin', ':myshoppingcart', ':myschedule'
